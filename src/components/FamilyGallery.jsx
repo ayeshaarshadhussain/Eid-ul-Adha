@@ -22,7 +22,7 @@ const images = [
   },
   {
     id: 4,
-    url: 'https://i.pinimg.com/736x/c8/0d/31/c80d3168a35c20e0c7642f5097a6e417.jpg',
+    url: 'https://i.pinimg.com/736x/f1/99/15/f199153e38dcd526eb28687f62691d9c.jpg',
     caption: 'Eid gifts and celebrations',
   },
   {
