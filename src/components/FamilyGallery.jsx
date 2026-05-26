@@ -32,7 +32,7 @@ const images = [
   },
   {
     id: 6,
-    url: 'https://i.pinimg.com/1200x/68/34/a9/6834a9305b2b91d7e90cec767f0b0c7a.jpg',
+    url: 'https://i.pinimg.com/736x/f1/99/15/f199153e38dcd526eb28687f62691d9c.jpg',
     caption: 'Spreading joy and blessings',
   },
 ];
